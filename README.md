@@ -10,7 +10,7 @@ Mechanische Bewegung, Druck oder Schwingungen können mit piezoelektrischen oder
 
 
 # Ziel:
-...... Das bereits bekannte intelligenter nutzbar machen......
-...
-..
-.
+#
+......magnetische und optische Felder intelligent verheiraten ......
+#
+#
