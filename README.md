@@ -1,6 +1,6 @@
 # harvest-energy-level-1
 
-Energy Harvesting macht Kabel zur Stromversorgung oder das Nachladen von Batterien in mobilen Geräten überflüssig. Dieses Prinzip der Energiegewinnung kann direkt zur Versorgung von kleinen elektronischen Systemen genutzt werden.
+Energy Harvesting macht Kabel zur Stromversorgung oder das Nachladen von Batterien in Geräten überflüssig. Dieses Prinzip der Energiegewinnung kann direkt zur Versorgung von kleinen elektronischen Systemen genutzt werden.
 
 # Die bisher bekannten Möglichkeiten...
 
