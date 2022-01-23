@@ -13,6 +13,14 @@ Inkohärente optische Strahlung ist optische Strahlung aus künstlichen Quellen,
 
 # Ziel:
 #
-......magnetische und optische Felder intelligent verheiraten ......
+||......magnetische und optische Felder intelligent verheiraten ......
+#
+Optische Strahlung
+
+Das Sachgebiet Optische Strahlung befasst sich mit der elektromagnetischen Strahlung im Wellenlängenbereich von 100 nm (ultraviolette Strahlung) bis 1 mm (fernes Infrarot).
+#
+Elektromagnetische Felder
+
+Das Sachgebiet Elektromagnetische Felder befasst sich mit statischen elektrischen, statischen magnetischen sowie zeitveränderlichen elektrischen, magnetischen und elektromagnetischen Feldern mit Frequenzen bis 300 Gigahertz.
 #
 #
