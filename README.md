@@ -6,7 +6,7 @@ Energy Harvesting macht Kabel zur Stromversorgung oder das Nachladen von Batteri
 
 Bei der thermoelektrischen Energiegewinnung wird der Temperaturunterschied von einem warmen oder kalten Objekt zur Umgebung genutzt, um elektrische Energie zu gewinnen. Dabei wird der sogenannte Seebeck-Effekt genutzt.
 
-Mechanische Bewegung, Druck oder Schwingungen können mit piezoelektrischen oder induktiven Generatoren in elektrische Spannungen umgewandelt werden um. So können beispielsweise vorhandene Vibrationen an Maschinen oder Motoren genutzt werden, um kleine elektronische Geräte mit Energie zu versorgen.
+Mechanische Bewegung, Druck oder Schwingungen können mit piezoelektrischen oder induktiven Generatoren in elektrische Spannungen umgewandelt werden. So können beispielsweise vorhandene Vibrationen an Maschinen oder Motoren genutzt werden, um kleine elektronische Geräte mit Energie zu versorgen.
 
 Inkohärente optische Strahlung ist optische Strahlung aus künstlichen Quellen, die im Unterschied zu Laserstrahlung ohne feste Phasenbeziehung der elektromagnetischen Wellen ist.
 
