@@ -22,3 +22,20 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 # questions
+------------ Ausgabe aller Root-Key/Values:
+
+key=RestResponse, val={ ...
+
+------------ Ausgabe aller Key/Values zu 'RestResponse':
+
+key=messages, val=[" ...
+key=result, val=[{ ...
+
+------------ Ausgabe der Inhalte aller Elemente des 'RestResponse.result'-Arrays:
+
+AF / AFG : Afghanistan
+AX / ALA : Åland Islands
+...
+DE / DEU : Germany
+...
+ZW / ZWE : Zimbabwe
