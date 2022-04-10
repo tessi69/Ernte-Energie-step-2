@@ -25,3 +25,7 @@ Das Sachgebiet Elektromagnetische Felder befasst sich mit statischen elektrische
 #
 #
 An idea --> Every street lamp becomes a transmitter and the infrastructure is purged ....
+
+
+#
+optische spiegelreflexe erkennen und nutzbar machen ist die aktuelle herausforderung ... 
