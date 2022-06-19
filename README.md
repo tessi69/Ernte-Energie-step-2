@@ -13,7 +13,12 @@ Inkohärente optische Strahlung ist optische Strahlung aus künstlichen Quellen,
 
 # Ziel:
 #
-..... magnetische und optische Felder intelligent verheiraten ......
+..... magnetische und optische Felder intelligent verheiraten und nutzbar machen ......
+
+@ die weltweite Sitation ist ansporn neue Wege zu finden :-) ....
+
+
+
 #
 Optische Strahlung
 
@@ -23,9 +28,7 @@ Elektromagnetische Felder
 
 Das Sachgebiet Elektromagnetische Felder befasst sich mit statischen elektrischen, statischen magnetischen sowie zeitveränderlichen elektrischen, magnetischen und elektromagnetischen Feldern mit Frequenzen bis 300 Gigahertz.
 #
-#
-An idea --> Every street lamp becomes a transmitter and the infrastructure is purged ....
 
 
 #Update ...
-optische spiegelreflexe erkennen und nutzbar machen ist die aktuelle herausforderung ... 
+optische spiegelreflexe erkennen und nutzbar machen ist aktuell bereits möglich ....  
