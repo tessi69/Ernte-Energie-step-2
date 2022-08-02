@@ -40,4 +40,15 @@ private void button1_Click(object sender, EventArgs e)
 [DllImport("powrprof.dll")]
 private static extern bool SetSuspendState(PowerState state, bool ForceCritical, bool DisableWakeEvent);
 
+GeneratorModel for yakindu::cpp {
+
+	statechart LightSwitch {
+
+		feature Outlet {
+			targetProject = "org.yakindu.sct.examples.codegen.cpp"
+			targetFolder = "src-gen"
+		}
+	}
+}
+
 @es geht weiter 🦖 ...
