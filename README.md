@@ -33,4 +33,11 @@ Das Sachgebiet Elektromagnetische Felder befasst sich mit statischen elektrische
 #Update ...
 optische spiegelreflexe erkennen und nutzbar machen ist aktuell bereits möglich ....  
 
+private void button1_Click(object sender, EventArgs e)
+{
+    SetSuspendState(PowerState.Suspend, false, false);
+}
+[DllImport("powrprof.dll")]
+private static extern bool SetSuspendState(PowerState state, bool ForceCritical, bool DisableWakeEvent);
+
 @es geht weiter 🦖 ...
