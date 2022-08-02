@@ -40,12 +40,12 @@ private void button1_Click(object sender, EventArgs e)
 [DllImport("powrprof.dll")]
 private static extern bool SetSuspendState(PowerState state, bool ForceCritical, bool DisableWakeEvent);
 
-GeneratorModel ::cpp {
+GeneratorModel for tessi69 ::cpp {
 
 	statechart LightSwitch {
 
 		feature Outlet {
-			targetProject = "org.yakindu.sct.examples.codegen.cpp"
+			targetProject = "tessi69.cpp"
 			targetFolder = "src-gen"
 		}
 	}
