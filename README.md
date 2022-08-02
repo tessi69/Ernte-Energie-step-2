@@ -51,4 +51,35 @@ GeneratorModel for yakindu::cpp {
 	}
 }
 
+
+namespace sc {
+namespace timer {
+
+/*! \file Interface for state machines which use timed event triggers.
+*/
+class TimedInterface {
+	public:
+	
+		virtual ~TimedInterface() = 0;
+		
+		/*! Set the timer service for the state machine. It must be set
+		    externally on a timed state machine before a run cycle can be executed.
+		*/
+		virtual void setTimerService(sc::timer::TimerServiceInterface* timerService) = 0;
+		
+		/*! Returns the currently used timer service.
+		*/
+		virtual sc::timer::TimerServiceInterface* getTimerService() = 0;
+		
+		/*! Callback method if a time event occurred.
+		*/
+		virtual void raiseTimeEvent(sc_eventid event) = 0;
+		
+		/*! Method to retrieve the number of time events that can be 
+			active at once in this state machine.
+		*/
+		virtual sc_integer getNumberOfParallelTimeEvents() = 0;
+};
+...
+
 @es geht weiter 🦖 ...
