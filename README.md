@@ -37,6 +37,8 @@ private void button1_Click(object sender, EventArgs e)
 {
     SetSuspendState(PowerState.Suspend, false, false);
 }
+
+
 [DllImport("powrprof.dll")]
 private static extern bool SetSuspendState(PowerState state, bool ForceCritical, bool DisableWakeEvent);
 
@@ -59,6 +61,7 @@ namespace timer {
 */
 class TimedInterface {
 	public:
+	
 	
 		virtual ~TimedInterface() = 0;
 		
