@@ -13,7 +13,7 @@ Inkohärente optische Strahlung ist optische Strahlung aus künstlichen Quellen,
 
 # Ziel:
 #
-..... magnetische und optische Felder intelligent verheiraten mit wenig Aufwand ......
+..... magnetische und optische Felder intelligent verheiraten mit geringen Aufwand ......
 
 @ die weltweite Situation ist ansporn genug neue Wege zu finden :-) ....
 
@@ -82,7 +82,7 @@ class TimedInterface {
 };
 ...
 
-<a href://www.derparias.de</a>
+<a href://www.derparia.de</a>
 
 
 @es geht weiter  🦖 ...
