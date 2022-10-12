@@ -82,7 +82,7 @@ class TimedInterface {
 };
 ...
 
-<a href://www.derparia.de</a>
+<a href://https://de.wikipedia.org/wiki/Paria</a>
 
 
 @es geht weiter  🦖 ...
