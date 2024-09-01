@@ -1,4 +1,4 @@
-# harvest-energy-level-1
+# harvest-energy-level 2
 
 Energy Harvesting macht Kabel zur Stromversorgung oder das Nachladen von Batterien in Geräten überflüssig. Dieses Prinzip der Energiegewinnung kann direkt zur Versorgung von kleinen elektronischen Systemen genutzt werden.
 
@@ -30,7 +30,8 @@ Das Sachgebiet Elektromagnetische Felder befasst sich mit statischen elektrische
 #
 
 
-#Update ...
+#Update 
+
 optische spiegelreflexe erkennen und nutzbar machen ist aktuell bereits möglich ....  
 
 private void button1_Click(object sender, EventArgs e)
@@ -88,4 +89,4 @@ class TimedInterface {
 
 
 @es geht weiter  🦖 ...
-#loop
+
