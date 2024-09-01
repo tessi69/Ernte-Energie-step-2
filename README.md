@@ -34,6 +34,8 @@ Das Sachgebiet Elektromagnetische Felder befasst sich mit statischen elektrische
 
 optische spiegelreflexe erkennen und nutzbar machen ist aktuell bereits möglich ....  
 
+mithilfe vom piezoelektrischen Material AlScN angetriebene Mikrospiegel ensteht eine hohe Antriebkraft .....
+
 private void button1_Click(object sender, EventArgs e)
 {
     SetSuspendState(PowerState.Suspend, false, false);
