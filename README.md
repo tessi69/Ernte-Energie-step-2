@@ -1,4 +1,4 @@
-# harvest-energy-level 2
+# harvest-energy step 2
 
 Energy Harvesting macht Kabel zur Stromversorgung oder das Nachladen von Batterien in Geräten überflüssig. Dieses Prinzip der Energiegewinnung kann direkt zur Versorgung von kleinen elektronischen Systemen genutzt werden.
 
