@@ -1,4 +1,4 @@
-# harvest-energy step 2
+# harvest-energy step 3
 
 Energy Harvesting macht Kabel zur Stromversorgung oder das Nachladen von Batterien in Geräten überflüssig. Dieses Prinzip der Energiegewinnung kann direkt zur Versorgung von kleinen elektronischen Systemen genutzt werden.
 
@@ -14,6 +14,8 @@ Inkohärente optische Strahlung ist optische Strahlung aus künstlichen Quellen,
 # Ziel:
 #
 ..... magnetische und optische Felder intelligent verheiraten mit geringen Aufwand ......
+
+... KI generierte Analytic mit autonomer Entscheidung ... 
 
 @ die weltweite Situation ist ansporn genug neue Wege zu finden :-) ....
 
